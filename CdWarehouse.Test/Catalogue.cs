@@ -5,6 +5,7 @@ namespace CdWarehouse.Test
 {
     public class Catalogue
     {
+        // Este es un comentario
         private readonly CompactDisc[] _cds;
 
         public Catalogue(params CompactDisc[] cds)
