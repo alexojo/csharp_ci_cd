@@ -3,6 +3,7 @@ using System.Linq;
 // Este es un comentario
 namespace CdWarehouse.Test
 {
+    #comentario...g
     public class Catalogue
     {
         private readonly CompactDisc[] _cds;
